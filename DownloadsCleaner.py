@@ -1,6 +1,6 @@
 import os
 ##REPLACE WITH YOUR OWN DIRECTORY##
-directory = 
+directory = "/Users/confuzedone/Downloads"
 files = []
 
 def getTerminalSize():
